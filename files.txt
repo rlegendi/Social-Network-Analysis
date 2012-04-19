@@ -1,0 +1,6 @@
+C:\007\work\eclipse_ws\Szvepi-Social-Network-Analysis\Social-Network-Analysis\src\Main.java
+C:\007\work\eclipse_ws\Szvepi-Social-Network-Analysis\Social-Network-Analysis\src\MainWindow.java
+C:\007\work\eclipse_ws\Szvepi-Social-Network-Analysis\Social-Network-Analysis\src\database\EmailDB.java
+C:\007\work\eclipse_ws\Szvepi-Social-Network-Analysis\Social-Network-Analysis\src\Graph\ViewGraph.java
+C:\007\work\eclipse_ws\Szvepi-Social-Network-Analysis\Social-Network-Analysis\src\pstReader\PSTReader.java
+C:\007\work\eclipse_ws\Szvepi-Social-Network-Analysis\Social-Network-Analysis\src\pstReader\Reader.java
